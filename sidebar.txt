@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gub:home|Door43 (gub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gub|d43-gub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gub/archive/master.zip|d43-gub.zip]]
+
+**Recent Changes**
+{{changes>ns = gub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gub|Ethnologue data]]
+
